@@ -1,0 +1,6 @@
+#header, #navpath, .note, #sidebar, .more, #globalnav, #globalsearch {
+  display: none;
+}
+#content {
+  width: auto;
+}
